@@ -11,7 +11,7 @@ title: Meetings
 </div>
 
 <section>
-  {% assign meeting_pages = site.pages | where_exp: "p", "p.dir == '/meetings/'" | where_exp: "p", "p.name != 'index.md'" | sort: "date" | reverse %}
+  {% assign meeting_pages = site.pages | where_exp: "p", "p.path contains 'meetings/'" | where_exp: "p", "p.name != 'index.md'" | sort: "date" | reverse %}
   {% for m in meeting_pages %}
   <div class="meeting-row">
     <div class="date">{{ m.date | date: "%b %-d, %Y" | upcase }}</div>

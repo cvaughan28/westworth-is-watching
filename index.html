@@ -90,7 +90,7 @@ layout: default
   <span class="eyebrow">The full story</span>
   <h2>Catch up by topic</h2>
   <div class="cardlist">
-    {% assign topic_pages = site.pages | where_exp: "p", "p.dir == '/topics/'" | where_exp: "p", "p.name != 'index.md'" | sort: "order" %}
+    {% assign topic_pages = site.pages | where_exp: "p", "p.path contains 'topics/'" | where_exp: "p", "p.name != 'index.md'" | sort: "order" %}
     {% for t in topic_pages %}
     <a class="topic-card" href="{{ t.url | relative_url }}">
       <h3>{{ t.title }}</h3>

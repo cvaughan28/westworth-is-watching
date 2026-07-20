@@ -12,7 +12,7 @@ title: Topics
 
 <section>
   <div class="cardlist">
-    {% assign topic_pages = site.pages | where_exp: "p", "p.dir == '/topics/'" | where_exp: "p", "p.name != 'index.md'" | sort: "order" %}
+    {% assign topic_pages = site.pages | where_exp: "p", "p.path contains 'topics/'" | where_exp: "p", "p.name != 'index.md'" | sort: "order" %}
     {% for t in topic_pages %}
     <a class="topic-card" href="{{ t.url | relative_url }}">
       <h3>{{ t.title }}</h3>
