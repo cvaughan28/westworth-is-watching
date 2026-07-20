@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="page-head">
+  <div class="crumb"><a href="{{ '/topics/' | relative_url }}">Topics</a> /</div>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary %}<p class="summary">{{ page.summary }}</p>{% endif %}
+  {% if page.updated %}<div class="metaline">Last updated {{ page.updated }}</div>{% endif %}
+  <div class="page-rule"></div>
+</div>
+
+<div class="content">
+  <div class="standard-note">Our standard on every page: anything tagged <strong>FACT</strong> has a document, recording, or firsthand account behind it. Anything tagged <strong>SPECULATION</strong> or <strong>OPINION</strong> is what we think, plainly labeled. If a record proves us wrong, we post the record and fix the page.</div>
+  {{ content }}
+</div>

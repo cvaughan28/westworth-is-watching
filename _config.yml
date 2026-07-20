@@ -1,0 +1,23 @@
+title: Westworth Is Watching
+description: Westworth Village neighbors keeping an eye on City Hall. Read the documents. Get a yard sign. Show up.
+url: "https://cvaughan28.github.io"
+baseurl: "/westworth-is-watching"
+
+markdown: kramdown
+permalink: pretty
+
+# Files GitHub Pages should not publish as pages
+exclude:
+  - README.md
+  - EDITING.md
+  - LICENSE
+
+defaults:
+  - scope:
+      path: "topics"
+    values:
+      layout: topic
+  - scope:
+      path: "meetings"
+    values:
+      layout: meeting

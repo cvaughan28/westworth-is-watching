@@ -1,0 +1,225 @@
+---
+layout: default
+---
+
+<!-- ============ HERO: the yard sign ============ -->
+<div class="hero" id="top">
+  <div class="sign" aria-live="polite">
+    <h1 id="slogan">Who does the mayor work for?</h1>
+    <div class="rule"></div>
+  </div>
+  <div class="stakes" aria-hidden="true"><i></i><i></i></div>
+  <p class="lede">We're your neighbors in Westworth Village. We read the agendas, file the records requests, and show up to the meetings — so decisions about our town get made in front of us, not behind closed doors.</p>
+  <div class="cta-row">
+    <a class="btn btn-solid" href="#sign">Get a yard sign</a>
+    <a class="btn btn-ghost" href="{{ '/topics/' | relative_url }}">Read the full story</a>
+  </div>
+</div>
+
+<hr class="divider">
+
+<!-- ============ THE FACTS ============ -->
+<section id="facts">
+  <span class="eyebrow">On the record</span>
+  <h2>What happened</h2>
+
+  <div class="event">
+    <div class="date">MAY 2, 2026</div>
+    <div>
+      <h3>An election decided by 15, 24, and 2 votes</h3>
+      <p>Three council seats were on the ballot. Place 2 was decided by 15 votes, Place 3 by about 24, and Place 4 by just 2. That same day, pastry boxes carrying campaign flyers showed up on doorsteps around the village — remember that detail. <a href="{{ '/topics/election/' | relative_url }}">The election, in full.</a></p>
+    </div>
+  </div>
+
+  <div class="event">
+    <div class="date">MAY 16, 2026</div>
+    <div>
+      <h3>A councilman arrested over pastries</h3>
+      <p>Council Member Halden Griffith was arrested on a felony bribery allegation for delivering those pastry boxes, after the mayor reported him to police. The Star-Telegram later reported the Tarrant County DA would not pursue charges. <a href="{{ '/topics/pastry-gate/' | relative_url }}">Pastry Gate, start to finish.</a></p>
+    </div>
+  </div>
+
+  <div class="event">
+    <div class="date">JUN 18, 2026</div>
+    <div>
+      <h3>City money for legal fees — on the mayor's tie-break</h3>
+      <p>In a special session, the council voted to reimburse Council Member Fitzgerald's legal fees in the lawsuit contesting his 2-vote win. The vote tied 2–2; Mayor Jones broke the tie. Texas Attorney General opinions from 1987 and 1997 say public money can never pay an official's legal fees in an election contest — the 1997 opinion says never, "as a matter of law." The same night, three sitting P&amp;Z members were replaced — including the man who filed that lawsuit. <a href="{{ '/meetings/2026-06-18-special-session/' | relative_url }}">Read our notes from that night.</a></p>
+    </div>
+  </div>
+
+  <div class="event">
+    <div class="date">JUL 14, 2026</div>
+    <div>
+      <h3>Condemnation and litigation, in executive session</h3>
+      <p>The regular July meeting's closed-session list included the Burgess condemnation and the Digital Resources litigation. The "legal representation of a council member" item from June was gone. Residents have filed public information requests for the records behind all of it. <a href="{{ '/meetings/2026-07-14-council-meeting/' | relative_url }}">Read our notes.</a></p>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- ============ FACT VS OPINION ============ -->
+<section>
+  <span class="eyebrow">Our standard</span>
+  <h2>What we can prove — and what we think</h2>
+  <div class="split">
+    <div class="card">
+      <h3>Documented</h3>
+      <ul>
+        <li>The June 18 minutes: legal fees approved 3–2 on the mayor's tie-breaking vote, with Fitzgerald recused</li>
+        <li>Attorney General opinions JM-685 and DM-431, in the AG's own words (linked below)</li>
+        <li>The same-night replacement of three P&amp;Z members, including the election-contest plaintiff</li>
+        <li>The Griffith arrest, reported by the Fort Worth Report, KERA, WFAA, and CBS Texas</li>
+        <li>Cumberland Rest, Inc.'s tax-exempt status and its purchase of the 27-acre Kite Farm for a project reported at $350 million</li>
+      </ul>
+    </div>
+    <div class="card opinion">
+      <h3>Labeled opinion</h3>
+      <ul>
+        <li>Whether these actions were taken to clear a path for the Trinity Terrace rezoning is our speculation — but with the project still alive, it's a question every resident should be asking.</li>
+        <li>We'll revise this page as records come back. If a document proves us wrong, it goes up too.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- ============ TOPICS ============ -->
+<section id="topics-teaser">
+  <span class="eyebrow">The full story</span>
+  <h2>Catch up by topic</h2>
+  <div class="cardlist">
+    {% assign topic_pages = site.pages | where_exp: "p", "p.dir == '/topics/'" | where_exp: "p", "p.name != 'index.md'" | sort: "order" %}
+    {% for t in topic_pages %}
+    <a class="topic-card" href="{{ t.url | relative_url }}">
+      <h3>{{ t.title }}</h3>
+      <p>{{ t.summary }}</p>
+      <span class="go">Read →</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- ============ DOCUMENTS ============ -->
+<section id="documents">
+  <span class="eyebrow">Read it yourself</span>
+  <h2>The documents</h2>
+
+  <div class="doc">
+    <span class="tag">MINUTES</span>
+    <a href="https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_07142026-193" rel="noopener">July 14, 2026 agenda packet — includes the June 9 and June 18 minutes</a>
+    <span class="note">The legal-fees vote, the walkout, and the P&amp;Z replacements, in the city's own record.</span>
+  </div>
+  <div class="doc">
+    <span class="tag">AGENDA</span>
+    <a href="https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_06182026-189" rel="noopener">June 18, 2026 special session agenda</a>
+  </div>
+  <div class="doc">
+    <span class="tag">AG OPINION</span>
+    <a href="https://www2.texasattorneygeneral.gov/opinions/opinions/48morales/op/1997/pdf/dm0431.pdf" rel="noopener">DM-431 (1997) — election-contest legal fees prohibited "as a matter of law"</a>
+  </div>
+  <div class="doc">
+    <span class="tag">AG OPINION</span>
+    <a href="https://www2.texasattorneygeneral.gov/opinions/opinions/47mattox/op/1987/pdf/jm0685.pdf" rel="noopener">JM-685 (1987) — public funds may not serve "the purely personal interests" of an official</a>
+  </div>
+  <div class="doc">
+    <span class="tag">AG OPINION</span>
+    <a href="https://texasattorneygeneral.gov/opinions/greg-abbott/ga-0104" rel="noopener">GA-0104 (2003) — reimbursing a trustee's legal expenses arising from an election contest</a>
+  </div>
+  <div class="doc">
+    <span class="tag">NEWS</span>
+    <a href="https://fortworthreport.org/2026/05/16/can-pastries-pop-over-into-bribes-westworth-village-case-asks-district-attorney-to-consider/" rel="noopener">Fort Worth Report — "Can pastries pop over into bribes?"</a>
+    <span class="note">Also covered by <a href="https://www.keranews.org/news/2026-05-18/can-pastries-pop-over-into-bribes-tarrant-da-to-consider-westworth-village-case" rel="noopener">KERA</a>, WFAA, and CBS Texas.</span>
+  </div>
+  <div class="doc">
+    <span class="tag">NONPROFIT</span>
+    <a href="https://projects.propublica.org/nonprofits/organizations/750891470" rel="noopener">Cumberland Rest, Inc. — IRS filings via ProPublica Nonprofit Explorer</a>
+    <span class="note">501(c)(3) since 1943. Revenue of $52.45 million in fiscal 2024.</span>
+  </div>
+  <div class="doc">
+    <span class="tag">ORDINANCE</span>
+    <a href="https://ecode360.com/40202654" rel="noopener">Westworth Village Code — Planning &amp; Zoning Commission</a>
+    <span class="note">Membership, terms, and removal rules, in the city's own code.</span>
+  </div>
+  <div class="doc">
+    <span class="tag">AGENDAS</span>
+    <a href="https://www.cityofwestworth.com/AgendaCenter" rel="noopener">City agenda center — cityofwestworth.com</a>
+    <span class="note">Every agenda and packet, straight from the source.</span>
+  </div>
+  <!-- As public-records productions arrive, add each PDF here with a FILED / PRODUCED tag -->
+</section>
+
+<!-- ============ GET A SIGN ============ -->
+<section class="request" id="sign">
+  <span class="eyebrow">Put it on the lawn</span>
+  <h2>Request a yard sign</h2>
+  <p class="intro">Free, delivered to your door by a neighbor, placed with your permission on your own property. Pick your favorite — every sign carries the QR code that brought you here.</p>
+
+  <!--
+    FORM SETUP (one-time, ~5 minutes):
+    1. Create a free form endpoint at https://formspree.io (or use a Google Form and link it instead).
+    2. Replace YOUR_FORM_ID below with your Formspree ID, e.g. action="https://formspree.io/f/abcdwxyz"
+    3. Submissions arrive by email; export to a spreadsheet for delivery routing.
+    Until then, the site shows visitors a friendly "opening soon" note instead of submitting.
+
+    SIGN PRINTING NOTE (Texas law): every printed sign must carry this exact notice —
+    "NOTICE: IT IS A VIOLATION OF STATE LAW (CHAPTERS 392 AND 393, TRANSPORTATION CODE)
+    TO PLACE THIS SIGN IN THE RIGHT-OF-WAY OF A HIGHWAY."
+    Keep signs 36 sq ft or less, 8 ft or less, no lighting. Yards only, never medians or the ROW.
+  -->
+  <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <div class="choices" role="radiogroup" aria-label="Choose a sign design">
+      <label class="choice">
+        <input type="radio" name="sign_choice" value="Who Does the Mayor Work For" required>
+        <span class="mini"><strong>Who does the mayor work for?</strong><em></em></span>
+      </label>
+      <label class="choice">
+        <input type="radio" name="sign_choice" value="No Backroom Rezoning">
+        <span class="mini"><strong>No backroom rezoning</strong><em></em></span>
+      </label>
+      <label class="choice">
+        <input type="radio" name="sign_choice" value="We Already Said No">
+        <span class="mini"><strong>We already said no.</strong><em></em></span>
+      </label>
+      <label class="choice">
+        <input type="radio" name="sign_choice" value="Westworth Is Watching">
+        <span class="mini"><strong>Westworth is watching.</strong><em></em></span>
+      </label>
+    </div>
+
+    <div class="grid">
+      <div class="field">
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text" autocomplete="name" required>
+      </div>
+      <div class="field">
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" autocomplete="email" required>
+      </div>
+    </div>
+    <div class="field">
+      <label for="address">Street address (Westworth Village)</label>
+      <input id="address" name="address" type="text" autocomplete="street-address" required>
+      <span class="hint">So a neighbor can deliver and place your sign — and so we know which streets are standing up.</span>
+    </div>
+    <div class="field">
+      <label for="phone">Phone (optional)</label>
+      <input id="phone" name="phone" type="tel" autocomplete="tel">
+    </div>
+    <button class="btn btn-solid" type="submit">Request my sign</button>
+    <p class="fineprint">We use your information only to deliver signs and share updates about city meetings. We never sell or share it. Signs go on private property only, with the owner's permission — never in medians, parks, or the public right-of-way.</p>
+  </form>
+</section>
+
+<!-- ============ SHOW UP ============ -->
+<section>
+  <span class="eyebrow">The part that matters most</span>
+  <h2>Show up</h2>
+  <div class="meeting-box">
+    <div class="when">Next council meeting: Tue, Aug 11 · 7:00 PM</div>
+    <p>Council Chambers, Municipal Complex — 311 Burton Hill Road. The council meets the second Tuesday of every month. Citizen comments are at the start of every meeting. You don't have to speak. A full room speaks for itself.</p>
+  </div>
+</section>
