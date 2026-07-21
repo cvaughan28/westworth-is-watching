@@ -23,10 +23,6 @@ FACT: Election day was also the day pastry boxes carrying campaign flyers landed
 
 FACT: Michael Bachand — who lost Place 4 by those 2 votes — filed suit contesting the election. News reports describe the claim as the city knowingly allowing people to vote who no longer lived in Westworth Village. The city's own June 18 minutes refer to "the pending cause brought against him and the City by Michael Bachand," naming Council Member Fitzgerald. We have not yet posted the petition itself; court filings are public, and once we have a cause number it goes here so you can read the claims firsthand.
 
-FACT: On June 18, the council voted — 2–2, with Mayor Jones breaking the tie — to reimburse Fitzgerald's legal fees in that suit. [Our notes from that night](/westworth-is-watching/meetings/2026-06-18-special-session/), with the minutes linked.
+FACT: Then the city's money entered the picture: on June 18, the council voted to reimburse Fitzgerald's legal fees in that suit — a decision the Texas Attorney General has said public funds can never make. That story has its own page: [Misuse of Public Funds](/westworth-is-watching/topics/misuse-of-public-funds/).
 
-## The part that isn't in dispute
-
-FACT: The Texas Attorney General has held that public money cannot pay an official's legal fees in an election contest: [JM-685 (1987)](https://www2.texasattorneygeneral.gov/opinions/opinions/47mattox/op/1987/pdf/jm0685.pdf) and [DM-431 (1997)](https://www2.texasattorneygeneral.gov/opinions/opinions/48morales/op/1997/pdf/dm0431.pdf), which puts it "as a matter of law." A third opinion, [GA-0104 (2003)](https://texasattorneygeneral.gov/opinions/greg-abbott/ga-0104), addressed reimbursing a trustee's legal expenses arising from an election contest. The wrinkle: Bachand's suit names both Fitzgerald and the City, and a city defending itself is a different question from a city paying an official's personal defense. The June 18 motion, as the minutes record it, was reimbursement to Fitzgerald.
-
-OPINION: However the contest itself turns out, the city's checkbook shouldn't be riding on it. That's not a partisan position — it's two attorneys general, a decade apart, in plain language.
+OPINION: However the contest itself turns out, elections decided by 2 votes are exactly why every ballot rule matters — and why the process for challenging one should stay scrupulously clean on all sides.

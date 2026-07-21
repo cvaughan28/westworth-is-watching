@@ -31,4 +31,4 @@ OPINION: Maybe this project is right for the village and maybe it isn't — reas
 
 ## Where this connects to everything else
 
-SPECULATION: The June 18 legal-fees vote and the same-night replacement of three P&amp;Z members both happened while this project was still alive. Whether those actions were taken to clear a path for the rezoning is our speculation — we say so plainly — but it's the question that ties these pages together, and residents deserve a plain answer to it.
+SPECULATION: The [June 18 legal-fees vote](/westworth-is-watching/topics/misuse-of-public-funds/) and the [P&amp;Z shake-up](/westworth-is-watching/topics/planning-and-zoning/) both happened while this project was still alive. Whether those actions were taken to clear a path for the rezoning is our speculation — we say so plainly — but it's the question that ties these pages together, and residents deserve a plain answer to it.
