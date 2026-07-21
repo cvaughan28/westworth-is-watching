@@ -1,6 +1,6 @@
 ---
 title: Trinity Terrace
-summary: A $350 million tax-exempt project on the village's biggest remaining tract — and the rezoning fight behind almost everything else on this site.
+summary: A tax-exempt nonprofit's $350 million project on the village's biggest remaining tract — and the rezoning fight behind almost everything else on this site.
 order: 2
 updated: July 2026
 ---
@@ -17,9 +17,15 @@ FACT: Mayor Jones supported the rezoning, per that same news coverage. A rezonin
 
 ## Why "tax-exempt" is the whole question
 
-FACT: Texas law ([Tax Code § 11.18](https://statutes.capitol.texas.gov/GetStatute.aspx?Code=TX&Value=11.18)) exempts qualifying nonprofit retirement communities from property tax — independent living, assisted living, and nursing on a single campus, with a charity-care requirement. If the project qualifies, the village's biggest remaining tract could come off the tax rolls while still using village streets and services.
+FACT: Being a 501(c)(3) exempts an organization from *federal income tax*. Texas *property* tax is a separate question with its own test: [Tax Code § 11.18(d)(19)](https://statutes.capitol.texas.gov/GetStatute.aspx?Code=TX&Value=11.18) exempts a nonprofit retirement community only if it offers independent living, assisted living, and nursing care on a single contiguous campus and provides at least 4% of net resident revenue as charity care — and even then, only if the owner applies to the county appraisal district and is approved. It is never automatic.
 
-FACT: Cities sometimes negotiate a payment-in-lieu-of-taxes (PILOT) agreement with a tax-exempt owner to offset that loss. Residents have filed public information requests asking whether any written PILOT agreement connected to future development exists. Nothing has been produced to us yet; whatever comes back gets posted here.
+FACT: Trinity Terrace's downtown campus has that exemption. As of July 2026, Tarrant Appraisal District records list the 1600 Texas Street property — appraised at $103.9 million — as exempt under § 11.18(d)(19). When Tarrant County approved roughly $72.6 million in bonds for Trinity Terrace in 2024, one county commissioner voted no, saying the charitable designation "is really pushing the boundaries and stretching the definition."
+
+FACT: The Westworth land is a different story — for now. TAD records show Cumberland Rest acquired the Kite Farm parcels in August 2022 (eleven accounts, about 26.7 acres, roughly $4.2 million in market value), and no charitable exemption has been granted on any of them. About $2.5 million of that value is fully taxable today; the rest sits under the old farm's *agricultural* appraisal, taxed on productivity values of a few hundred dollars per parcel. Texas law adds one more wrinkle: converting agricultural land to development triggers rollback taxes.
+
+UNVERIFIED: Whether a Westworth campus would seek — or would qualify for — the § 11.18(d)(19) exemption is an open question. We have found no public statement from Trinity Terrace committing either way. It is a question the council could ask, on the record, before any rezoning vote.
+
+FACT: Cities sometimes negotiate a payment-in-lieu-of-taxes (PILOT) agreement with a tax-exempt owner to offset lost revenue. Residents have filed public information requests asking whether any written PILOT agreement connected to future development exists. Nothing has been produced to us yet; whatever comes back gets posted here.
 
 OPINION: Maybe this project is right for the village and maybe it isn't — reasonable neighbors can disagree. But if a tax-exempt project of this size is coming, the village should be negotiating from strength, in public, with the numbers on the table — not learning the terms after the fact.
 
