@@ -17,13 +17,15 @@ FACT: To be fair to the whole picture: the Bachand suit names both Fitzgerald *a
 
 OPINION: When the two council members who voted no include one who just won his seat, and the deciding vote comes from the mayor, on a payment the Attorney General has said twice is off-limits — residents are entitled to see the legal opinion the city is relying on. We've asked for it.
 
-## The P&Z swap, same night
+## The board appointments, same night
 
-FACT: Per the minutes, the council replaced Michael Bachand, Brad Turner, and Anita Gray on the Planning &amp; Zoning Commission with Aaron Feldman, Russell Laughlin, and Gary Fitzjarrell, for terms ending May 2028. The vote was 4–0 with Fitzgerald abstaining. Changes to the WRA, CCPD, and Finance/Long-Range Planning committees were made the same night.
+FACT: Per the minutes, the council made its board appointments that night: Michael Bachand, Brad Turner, and Anita Gray came off the Planning &amp; Zoning Commission, replaced by Aaron Feldman, Russell Laughlin, and Gary Fitzjarrell for terms ending May 2028. The vote was 4–0 with Fitzgerald abstaining. Changes to the WRA, CCPD, and Finance/Long-Range Planning committees were made the same night.
 
-FACT: Two of the three removed had just been on the May 2 ballot: Turner had won a council seat (a natural reason to leave P&amp;Z), and Bachand had lost his council race by 2 votes — and is the plaintiff in the election-contest suit the council had just voted to fund the defense of.
+FACT: Two of the three replaced had just been on the May 2 ballot: Turner had won a council seat (a natural reason to leave P&amp;Z), and Bachand had lost his council race by 2 votes — and is the plaintiff in the election-contest suit the council had just voted to fund the defense of.
 
-SPECULATION: Removing the plaintiff in a pending suit from a city commission, the same night the city votes to fund the other side's legal fees, looks like retaliation. We can't see inside anyone's head, and we label this as our reading of the record — but the record is what it is, and it's linked above so you can read it yourself.
+FACT: These appointments didn't end the roster changes. Three weeks later, at the July 14 regular meeting, three more sitting commissioners — including the commission's chair — were removed mid-term, and one of the members appointed this night was replaced. [Our notes on July 14](/westworth-is-watching/meetings/2026-07-14-council-meeting/), with the roster document. Between the two meetings, six of the commission's seven seats changed hands.
+
+SPECULATION: Replacing the plaintiff in a pending suit on a city commission, the same night the city votes to fund the other side's legal fees, looks like retaliation. We can't see inside anyone's head, and we label this as our reading of the record — but the record is what it is, and it's linked above so you can read it yourself.
 
 ## Also that night
 
