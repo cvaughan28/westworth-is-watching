@@ -35,7 +35,7 @@ The site turns those words into the styled tags you see on the pages. A FACT nee
 When a records request comes back or you get a PDF worth sharing:
 
 1. Create a folder called `files` at the top level of the repository (if it doesn't exist yet) and upload the PDF there (**Add file → Upload files**).
-2. Link to it from the relevant page like this: `[the invoice](/westworth-is-watching/files/invoice-june.pdf)`
+2. Link to it from the relevant page like this: `[the invoice](/files/invoice-june.pdf)`
 3. Add it to the Documents list on the home page (`index.html`) — copy one of the existing `<div class="doc">` blocks and edit the text.
 
 ## Giving a friend edit access

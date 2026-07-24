@@ -2,7 +2,7 @@
 
 A volunteer-run website by Westworth Village residents who read the agendas, file the records requests, and show up to the meetings.
 
-**Live site:** https://cvaughan28.github.io/westworth-is-watching/
+**Live site:** https://westworthiswatching.com
 
 ## What's here
 

@@ -23,7 +23,7 @@ FACT: Per the minutes, the council made its board appointments that night: Micha
 
 FACT: Two of the three replaced had just been on the May 2 ballot: Turner had won a council seat (a natural reason to leave P&amp;Z), and Bachand had lost his council race by 2 votes — and is the plaintiff in the election-contest suit the council had just voted to fund the defense of.
 
-FACT: These appointments didn't end the roster changes. Three weeks later, at the July 14 regular meeting, three more sitting commissioners — including the commission's chair — were removed mid-term, and one of the members appointed this night was replaced. [Our notes on July 14](/westworth-is-watching/meetings/2026-07-14-council-meeting/), with the roster document. Between the two meetings, six of the commission's seven seats changed hands.
+FACT: These appointments didn't end the roster changes. Three weeks later, at the July 14 regular meeting, three more sitting commissioners — including the commission's chair — were removed mid-term, and one of the members appointed this night was replaced. [Our notes on July 14](/meetings/2026-07-14-council-meeting/), with the roster document. Between the two meetings, six of the commission's seven seats changed hands.
 
 SPECULATION: Replacing the plaintiff in a pending suit on a city commission, the same night the city votes to fund the other side's legal fees, looks like retaliation. We can't see inside anyone's head, and we label this as our reading of the record — but the record is what it is, and it's linked above so you can read it yourself.
 

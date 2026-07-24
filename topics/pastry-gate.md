@@ -23,7 +23,7 @@ UNVERIFIED: We understand two related cases remain open. Until we have filings i
 
 ## What we think
 
-OPINION: A sitting council member — one who, weeks later, [voted against spending city money on a colleague's election-contest defense](/westworth-is-watching/topics/misuse-of-public-funds/) — was arrested over pastries and campaign flyers on the word of the mayor whose favored rezoning those flyers criticized. The DA reportedly wanted no part of it. When an accusation is made that loudly and collapses that completely, the decent thing is to say so as publicly as the accusation was made.
+OPINION: A sitting council member — one who, weeks later, [voted against spending city money on a colleague's election-contest defense](/topics/misuse-of-public-funds/) — was arrested over pastries and campaign flyers on the word of the mayor whose favored rezoning those flyers criticized. The DA reportedly wanted no part of it. When an accusation is made that loudly and collapses that completely, the decent thing is to say so as publicly as the accusation was made.
 
 OPINION: And if the record shows we have any of the above wrong, we'll correct this page just as publicly. That's the standard we're asking City Hall to meet, so it's the standard we hold ourselves to.
 

@@ -11,7 +11,7 @@ minutes_url: https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_07142
 
 FACT: Per the official minutes, the executive session that night included an item on "legal representation of a council member in pending civil litigation." Council Member Halden Griffith moved to table the executive session, was ruled out of order, announced he would not participate, and left the meeting. With quorum broken, Mayor Jones adjourned without holding the executive session.
 
-FACT: Nine days later, the council took the matter up at a special called session and passed it on the mayor's tie-breaking vote. Our notes from that night are [here](/westworth-is-watching/meetings/2026-06-18-special-session).
+FACT: Nine days later, the council took the matter up at a special called session and passed it on the mayor's tie-breaking vote. Our notes from that night are [here](/meetings/2026-06-18-special-session).
 
 ## Why it matters
 

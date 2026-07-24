@@ -7,9 +7,9 @@ updated: July 2026
 
 ## The decision
 
-FACT: On June 18, 2026, in a special called session, the council took up "reimbursement of legal fees to Council Member Robert Fitzgerald in the pending cause brought against him and the City by Michael Bachand" — the lawsuit contesting the Place 4 election Fitzgerald won by 2 votes. The vote tied 2–2, with Council Members Turner and Griffith opposed and Fitzgerald recused. Mayor L. Kelly Jones cast the tie-breaking vote in favor. It passed 3–2. That's from [the official minutes](https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_07142026-193); [our notes from that night](/westworth-is-watching/meetings/2026-06-18-special-session/).
+FACT: On June 18, 2026, in a special called session, the council took up "reimbursement of legal fees to Council Member Robert Fitzgerald in the pending cause brought against him and the City by Michael Bachand" — the lawsuit contesting the Place 4 election Fitzgerald won by 2 votes. The vote tied 2–2, with Council Members Turner and Griffith opposed and Fitzgerald recused. Mayor L. Kelly Jones cast the tie-breaking vote in favor. It passed 3–2. That's from [the official minutes](https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_07142026-193); [our notes from that night](/meetings/2026-06-18-special-session/).
 
-FACT: Residents didn't get a plain-words heads-up. The agenda item read "legal representation of a council member in pending civil litigation" — nothing about an election contest or whose fees. Nine days earlier, an attempt to even discuss the item ended when a council member's walkout [broke quorum](/westworth-is-watching/meetings/2026-06-09-council-meeting/).
+FACT: Residents didn't get a plain-words heads-up. The agenda item read "legal representation of a council member in pending civil litigation" — nothing about an election contest or whose fees. Nine days earlier, an attempt to even discuss the item ended when a council member's walkout [broke quorum](/meetings/2026-06-09-council-meeting/).
 
 ## What the Attorney General has said
 
@@ -29,4 +29,4 @@ OPINION: When the Attorney General has said "never, as a matter of law," a 3–2
 
 ## Where this connects
 
-This decision sits inside a larger story: the lawsuit itself is covered on [The May 2 Election](/westworth-is-watching/topics/election/), and the man who filed it was taken off the P&amp;Z Commission the same night — see [Planning &amp; Zoning](/westworth-is-watching/topics/planning-and-zoning/).
+This decision sits inside a larger story: the lawsuit itself is covered on [The May 2 Election](/topics/election/), and the man who filed it was taken off the P&amp;Z Commission the same night — see [Planning &amp; Zoning](/topics/planning-and-zoning/).

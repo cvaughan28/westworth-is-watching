@@ -8,7 +8,7 @@ agenda_url: https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_071420
 
 ## The P&Z removals
 
-FACT: Three sitting Planning &amp; Zoning commissioners, each with a term running to May 2027, came off the commission at this meeting: Riley Swanston, Darla Thornton — the commission's chair, who had just lost the Place 2 council race by 15 votes — and Jordon Collis. They were replaced by Sharon Schmitz, Keith Martin, and Justin Harnick. Russell Laughlin, appointed to the commission only on June 18, was also replaced, by Carl Greer. Source: [the committee roster comparison](/westworth-is-watching/files/committee-changes-june-july-2026.pdf) provided by the city administrator, showing the rosters as of June 19 and July 15.
+FACT: Three sitting Planning &amp; Zoning commissioners, each with a term running to May 2027, came off the commission at this meeting: Riley Swanston, Darla Thornton — the commission's chair, who had just lost the Place 2 council race by 15 votes — and Jordon Collis. They were replaced by Sharon Schmitz, Keith Martin, and Justin Harnick. Russell Laughlin, appointed to the commission only on June 18, was also replaced, by Carl Greer. Source: [the committee roster comparison](/files/committee-changes-june-july-2026.pdf) provided by the city administrator, showing the rosters as of June 19 and July 15.
 
 FACT: This came after the appointments had already been settled at the June 18 special session. Between the two meetings, six of the commission's seven seats changed hands. One member — Dani Briones — kept a seat through both.
 
@@ -24,7 +24,7 @@ FACT: The executive session list included board appointments among other items. 
 
 ## Why it matters
 
-FACT: P&amp;Z takes the first vote on every rezoning request in the village — including any return of the [Trinity Terrace rezoning](/westworth-is-watching/topics/trinity-terrace/).
+FACT: P&amp;Z takes the first vote on every rezoning request in the village — including any return of the [Trinity Terrace rezoning](/topics/trinity-terrace/).
 
 OPINION: Removing a commission's chair mid-term, weeks after she ran against an incumbent, under an agenda item residents had no reason to read as removals, is exactly the kind of item this site exists to watch.
 

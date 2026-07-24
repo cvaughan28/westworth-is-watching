@@ -15,7 +15,7 @@ FACT: We're a Type A general-law city: a mayor and five council members, with re
 
 FACT: The village is nearly built out. The 27.73-acre Kite Farm on White Settlement Road — with over a thousand feet of Trinity River frontage — was marketed as one of the largest undeveloped tracts in west Fort Worth. In a town whose entire property tax base was reported at roughly $440 million, what happens to a parcel like that isn't one item on an agenda. It's the future of the budget.
 
-FACT: That parcel is where the [Trinity Terrace](/westworth-is-watching/topics/trinity-terrace/) story begins.
+FACT: That parcel is where the [Trinity Terrace](/topics/trinity-terrace/) story begins.
 
 ## Why this site exists
 

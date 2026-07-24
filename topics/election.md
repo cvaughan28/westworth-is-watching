@@ -17,12 +17,12 @@ FACT: Per the city's candidate list and results reported by [KERA](https://www.k
 | Place 3 | Brad Turner vs. Justin Harnick | Turner won with 52% — about 24 ballots |
 | Place 4 | Robert Fitzgerald (incumbent) vs. Michael Bachand | Fitzgerald won by 2 votes |
 
-FACT: Election day was also the day pastry boxes carrying campaign flyers landed on doorsteps around the village — the start of what neighbors now call [Pastry Gate](/westworth-is-watching/topics/pastry-gate/).
+FACT: Election day was also the day pastry boxes carrying campaign flyers landed on doorsteps around the village — the start of what neighbors now call [Pastry Gate](/topics/pastry-gate/).
 
 ## The contest
 
 FACT: Michael Bachand — who lost Place 4 by those 2 votes — filed suit contesting the election. News reports describe the claim as the city knowingly allowing people to vote who no longer lived in Westworth Village. The city's own June 18 minutes refer to "the pending cause brought against him and the City by Michael Bachand," naming Council Member Fitzgerald. We have not yet posted the petition itself; court filings are public, and once we have a cause number it goes here so you can read the claims firsthand.
 
-FACT: Then the city's money entered the picture: on June 18, the council voted to reimburse Fitzgerald's legal fees in that suit — a decision the Texas Attorney General has said public funds can never make. That story has its own page: [Misuse of Public Funds](/westworth-is-watching/topics/misuse-of-public-funds/).
+FACT: Then the city's money entered the picture: on June 18, the council voted to reimburse Fitzgerald's legal fees in that suit — a decision the Texas Attorney General has said public funds can never make. That story has its own page: [Misuse of Public Funds](/topics/misuse-of-public-funds/).
 
 OPINION: However the contest itself turns out, elections decided by 2 votes are exactly why every ballot rule matters — and why the process for challenging one should stay scrupulously clean on all sides.
