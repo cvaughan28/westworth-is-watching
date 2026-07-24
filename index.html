@@ -162,7 +162,7 @@ layout: default
 <section class="request" id="sign">
   <span class="eyebrow">Put it on the lawn</span>
   <h2>Request a yard sign</h2>
-  <p class="intro">Free, delivered to your door by a neighbor, placed with your permission on your own property. Pick your favorite — every sign carries the QR code that brought you here.</p>
+  <p class="intro">One sign, one message: <strong>Keep our single-family zoning.</strong> Free, delivered to your door by a neighbor, placed with your permission on your own property. Every sign carries the QR code that brought you here.</p>
 
   <!--
     FORM SETUP (one-time, ~5 minutes):
@@ -177,24 +177,12 @@ layout: default
     Keep signs 36 sq ft or less, 8 ft or less, no lighting. Yards only, never medians or the ROW.
   -->
   <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-    <div class="choices" role="radiogroup" aria-label="Choose a sign design">
-      <label class="choice">
-        <input type="radio" name="sign_choice" value="Who Does the Mayor Work For" required>
-        <span class="mini"><strong>Who does the mayor work for?</strong><em></em></span>
-      </label>
-      <label class="choice">
-        <input type="radio" name="sign_choice" value="Keep Our Single Family Zoning">
-        <span class="mini"><strong>Keep our single family zoning</strong><em></em></span>
-      </label>
-      <label class="choice">
-        <input type="radio" name="sign_choice" value="We Already Said No">
-        <span class="mini"><strong>We already said no.</strong><em></em></span>
-      </label>
-      <label class="choice">
-        <input type="radio" name="sign_choice" value="Westworth Is Watching">
-        <span class="mini"><strong>Westworth is watching.</strong><em></em></span>
-      </label>
+    <div class="choices" style="grid-template-columns:minmax(200px,320px);justify-content:center">
+      <div class="choice">
+        <span class="mini"><strong>Keep our single-family zoning</strong><em></em></span>
+      </div>
     </div>
+    <input type="hidden" name="sign_choice" value="Keep Our Single-Family Zoning">
 
     <div class="grid">
       <div class="field">

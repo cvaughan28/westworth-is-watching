@@ -8,7 +8,7 @@
   if (slogan && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     var slogans = [
       "Who does the mayor work for?",
-      "Keep our single family zoning",
+      "Keep our single-family zoning",
       "We already said no.",
       "Westworth is watching."
     ];
