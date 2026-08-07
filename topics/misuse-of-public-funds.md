@@ -2,7 +2,7 @@
 title: Misuse of Public Funds
 summary: The council voted to pay a member's legal fees in his own election contest — something the Texas Attorney General has said, twice, that public money can never do.
 order: 4
-updated: July 2026
+updated: August 2026
 ---
 
 ## The decision
@@ -21,7 +21,7 @@ FACT: To be fair to the whole picture: Bachand's suit names both Fitzgerald *and
 
 UNVERIFIED: How much has been paid or promised, to which law firm, and on what legal advice. Residents have filed public information requests for the legal opinions, invoices, and communications behind the decision. Every document that comes back gets posted here.
 
-UNVERIFIED: Whether the city obtained a written legal opinion supporting the payment before the vote. If one exists, we want to read it — and so should you.
+FACT: City officials have since told residents the payment rests on a written legal opinion — identified as authored by attorney Mollee Westfall — but have refused to produce it, saying it will be released "at a later time." That is not how the Public Information Act works, and on August 7 the refusal was put in front of the Attorney General (complaint OR-26-043635-IC). The story of the withheld documents: [The Records They Won't Release](/topics/records/).
 
 ## What we think
 

@@ -2,7 +2,7 @@
 title: Trinity Terrace
 summary: A tax-exempt nonprofit's $350 million project on the village's biggest remaining tract — and the rezoning fight behind almost everything else on this site.
 order: 2
-updated: July 2026
+updated: August 2026
 ---
 
 ## Who they are
@@ -15,6 +15,8 @@ FACT: Trinity Terrace purchased the 27-acre Kite Farm on White Settlement Road �
 
 FACT: Mayor Jones supported the rezoning, per that same news coverage. A rezoning connected to the project was brought to the city and rejected. The project is still alive and may come back.
 
+FACT: One clarification worth being precise about: the rezoning currently moving through the city — [The Gates at Westworth Village](/meetings/2026-08-04-pz-meeting/), a Shaddock Homes gated development on Redbird Lane — is a *different* project. No Kite Farm application has appeared on any posted agenda. When one does, you'll read it here first.
+
 ## Why "tax-exempt" is the whole question
 
 FACT: Being a 501(c)(3) exempts an organization from *federal income tax*. Texas *property* tax is a separate question with its own test: [Tax Code § 11.18(d)(19)](https://statutes.capitol.texas.gov/GetStatute.aspx?Code=TX&Value=11.18) exempts a nonprofit retirement community only if it offers independent living, assisted living, and nursing care on a single contiguous campus and provides at least 4% of net resident revenue as charity care — and even then, only if the owner applies to the county appraisal district and is approved. It is never automatic.
@@ -25,7 +27,7 @@ FACT: The Westworth land is a different story — for now. TAD records show Cumb
 
 UNVERIFIED: Whether a Westworth campus would seek — or would qualify for — the § 11.18(d)(19) exemption is an open question. We have found no public statement from Trinity Terrace committing either way. It is a question the council could ask, on the record, before any rezoning vote.
 
-FACT: Cities sometimes negotiate a payment-in-lieu-of-taxes (PILOT) agreement with a tax-exempt owner to offset lost revenue. Residents have filed public information requests asking whether any written PILOT agreement connected to future development exists. Nothing has been produced to us yet; whatever comes back gets posted here.
+FACT: Cities sometimes negotiate a payment-in-lieu-of-taxes (PILOT) agreement with a tax-exempt owner to offset lost revenue. The mayor has repeatedly claimed a PILOT agreement exists in connection with proposed development — but a Public Information Act request for it has gone unfulfilled, and on August 7 that refusal was put in front of the Attorney General (complaint OR-26-043636-IC). The full story of the withheld documents is on [The Records They Won't Release](/topics/records/).
 
 OPINION: Maybe this project is right for the village and maybe it isn't — reasonable neighbors can disagree. But if a tax-exempt project of this size is coming, the village should be negotiating from strength, in public, with the numbers on the table — not learning the terms after the fact.
 

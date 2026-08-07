@@ -2,30 +2,29 @@
 title: Council meeting — three more P&Z members removed, including the chair
 date: 2026-07-14
 meeting_type: City Council
-summary: Three sitting P&Z members with terms running to May 2027 — including the commission's chair, who had just run for council — were removed and replaced.
+summary: Per the official minutes, a motion to leave the commissions alone failed 2–3, and the council then removed three sitting P&Z members mid-term — including the chair — on a 3–2 vote. No cause appears anywhere in the minutes.
 agenda_url: https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_07142026-193
+minutes_url: https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_08112026-200
 ---
 
-## The P&Z removals
+## What the minutes show
 
-FACT: Three sitting Planning &amp; Zoning commissioners, each with a term running to May 2027, came off the commission at this meeting: Riley Swanston, Darla Thornton — the commission's chair, who had just lost the Place 2 council race by 15 votes — and Jordon Collis. They were replaced by Sharon Schmitz, Keith Martin, and Justin Harnick. Russell Laughlin, appointed to the commission only on June 18, was also replaced, by Carl Greer. Source: [the committee roster comparison](/files/committee-changes-june-july-2026.pdf) provided by the city administrator, showing the rosters as of June 19 and July 15.
+FACT: The official minutes (published August 5 in the [August 11 packet](https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_08112026-200)) record that the council went into executive session at 8:09 PM — listed items: the Burgess condemnation, potential Digital Resources litigation, an ambulance policy, and "board, committee, and commission appointments" — and reconvened at 9:17 PM. Then two motions were taken.
 
-FACT: This came after the appointments had already been settled at the June 18 special session. Between the two meetings, six of the commission's seven seats changed hands. One member — Dani Briones — kept a seat through both.
+FACT: First, Council Member Griffith moved, seconded by Turner, "to not make any changes to any commission, board, or committee as last month the council already voted unanimously to approve the slate of committee, commission, and board members." That motion **failed 2–3** — Poole, Dingman, and Fitzgerald voting no.
 
-FACT: The same roster document shows changes to the Crime Control &amp; Prevention District board as well: Erica Haley replacing Barbara Deakins, and Dawn Martin replacing Justin Harnick as he moved to P&amp;Z.
+FACT: Second, Poole moved, seconded by Dingman, to replace on the Planning &amp; Zoning Commission: Riley Swanston with Sharon Schmitz, Darla Thornton with Keith Martin, and Jordon Collis with Justin Harnick — each removed mid-term, with terms running to May 2027 — and to replace Russell Laughlin, who the minutes say resigned, with Carl Greer. The same motion swapped seats on the CCPD board (Erica Haley for Barbara Deakins; Dawn Martin for Justin Harnick) and the Finance &amp; Long-Range Planning Committee. It **passed 3–2**, Turner and Griffith voting no.
 
-UNVERIFIED: We have not yet seen the July 14 minutes (they'll appear in a later agenda packet — expected with the August 11 meeting materials). When they post, the vote counts and any stated reasons go here. We are aware of no cause stated for the removals.
+FACT: Thornton was the commission's chair, and had lost the Place 2 council race by 15 votes in May. No cause for any removal appears anywhere in the minutes.
 
-## Also on the agenda
+## What the agenda had told residents
 
-FACT: Open-session items included the Shady Oaks site plan drainage study, an alley-drainage engineering contract with Carrillo Engineering (up to $23,000), and review of the FY 2026–27 budget.
+FACT: The posted agenda item said only "appoint committee members… as needed." Nothing on it said sitting commissioners would be removed. In response to a public information request, the City Administrator confirmed in writing that "no notices were provided" to any sitting commissioner that removal would be discussed or acted upon; the removed commissioners learned of it from emails sent by the City Secretary the following afternoon.
 
-FACT: The executive session list included board appointments among other items. The "legal representation of a council member in pending civil litigation" item that appeared on the June agendas was not on the list.
+FACT: On August 4, a formal [demand letter](/files/demand-letter-pz-removal-2026-08-04.pdf) was delivered to the mayor, council, city attorney, city administrator, and city secretary, demanding the council rescind this action as a violation of the Texas Open Meetings Act's notice requirements. The three removed commissioners join the demand. Details on the [Planning &amp; Zoning page](/topics/planning-and-zoning/).
 
-## Why it matters
+## Also that night
 
-FACT: P&amp;Z takes the first vote on every rezoning request in the village — including any return of the [Trinity Terrace rezoning](/topics/trinity-terrace/).
+FACT: In open session the council approved the Shady Oaks storm-drainage results and water-metering plan (5–0), a contract with Carrillo Engineering up to $23,000 for a Westworth Park alley drainage fix (5–0), reviewed the FY 2026–27 budget with no action, and — after executive session — approved up to $10,000 this year and $112,000 next year for a citywide ambulance subscription (5–0).
 
-OPINION: Removing a commission's chair mid-term, weeks after she ran against an incumbent, under an agenda item residents had no reason to read as removals, is exactly the kind of item this site exists to watch.
-
-*(If you attended and can add what was reported out of executive session, or how the open-session votes went, add it here.)*
+OPINION: Set the two votes side by side. The council was asked, in the open, to simply keep the boards it had unanimously seated four weeks earlier. Three members said no — and then rebuilt the land-use commission mid-term, under an agenda item that never used the word removal, with no reason given then or since.

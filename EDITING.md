@@ -42,6 +42,19 @@ When a records request comes back or you get a PDF worth sharing:
 
 Repository **Settings → Collaborators → Add people**, enter their GitHub username. They'll need a free GitHub account. Only add people you trust to follow the labeling rule — every edit is public and permanent in the site's history.
 
+## Linking city documents
+
+City agendas and packets live at cityofwestworth.com/AgendaCenter. Heads up: the city's P&Z page also points to a second portal (westworthvillagetx.civicweb.net) — if a document isn't on the first site, check the second before concluding it doesn't exist. Always link the packet you actually read, and save a copy of any PDF you cite (packets get replaced).
+
+## Sending an update email
+
+The alert list = everyone from the "Email alerts" form plus sign requesters (both arrive in the site inbox; the Formspree dashboard exports each list as a spreadsheet).
+
+1. Write the update in plain language — what happened, what it means, one clear ask (usually "show up Tuesday").
+2. Put every recipient in **BCC** (never To or CC — don't expose neighbors' addresses to each other).
+3. End every email with: "Reply STOP and we'll take you off this list." Honor those immediately.
+4. Keep it occasional. One email per real development beats a weekly drumbeat nobody reads.
+
 ## Things to keep doing (and not doing)
 
 - **Do** link the source next to every FACT. The link is the armor.
