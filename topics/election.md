@@ -2,7 +2,7 @@
 title: The May 2 Election
 summary: Three council seats decided by 15, 24, and 2 votes — and the lawsuit now contesting the closest one, with city money involved.
 order: 3
-updated: July 2026
+updated: August 2026
 ---
 
 ## Who ran, and what the count said
@@ -21,7 +21,7 @@ FACT: Election day was also the day pastry boxes carrying campaign flyers landed
 
 ## The contest
 
-FACT: Michael Bachand — who lost Place 4 by those 2 votes — filed suit contesting the election. News reports describe the claim as the city knowingly allowing people to vote who no longer lived in Westworth Village. The city's own June 18 minutes refer to "the pending cause brought against him and the City by Michael Bachand," naming Council Member Fitzgerald. We have not yet posted the petition itself; court filings are public, and once we have a cause number it goes here so you can read the claims firsthand.
+FACT: Michael Bachand — who lost Place 4 by those 2 votes (274–272) — filed suit on May 13, 2026, contesting the election: **Cause No. 348-377803-26, Bachand v. Fitzgerald**, in Tarrant County district court. Per the city's own outside-counsel opinion describing the case, the petition alleges three illegal votes were cast and asks the court to either declare Bachand the winner or void the result and order Westworth Village to conduct — and pay for — a new election. Court filings are public; look the cause number up yourself.
 
 FACT: Then the city's money entered the picture: on June 18, the council voted to reimburse Fitzgerald's legal fees in that suit — a decision the Texas Attorney General has said public funds can never make. That story has its own page: [Misuse of Public Funds](/topics/misuse-of-public-funds/).
 

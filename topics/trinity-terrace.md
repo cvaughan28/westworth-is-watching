@@ -27,7 +27,7 @@ FACT: The Westworth land is a different story — for now. TAD records show Cumb
 
 UNVERIFIED: Whether a Westworth campus would seek — or would qualify for — the § 11.18(d)(19) exemption is an open question. We have found no public statement from Trinity Terrace committing either way. It is a question the council could ask, on the record, before any rezoning vote.
 
-FACT: Cities sometimes negotiate a payment-in-lieu-of-taxes (PILOT) agreement with a tax-exempt owner to offset lost revenue. The mayor has repeatedly claimed a PILOT agreement exists in connection with proposed development — but a Public Information Act request for it has gone unfulfilled, and on August 7 that refusal was put in front of the Attorney General (complaint OR-26-043636-IC). The full story of the withheld documents is on [The Records They Won't Release](/topics/records/).
+FACT: Cities sometimes negotiate a payment-in-lieu-of-taxes (PILOT) agreement with a tax-exempt owner to offset lost revenue. The mayor has repeatedly claimed a PILOT agreement exists for the proposed development. After a complaint to the Attorney General, the city finally produced what it has: [an unsigned 2023 redline draft](/files/pilot-draft-redline-2023-02-28.pdf) — 116 tracked changes, no signatures, never finalized, and not included with the original planning and zoning submission. The full story: [The Records They Wouldn't Release](/topics/records/).
 
 OPINION: Maybe this project is right for the village and maybe it isn't — reasonable neighbors can disagree. But if a tax-exempt project of this size is coming, the village should be negotiating from strength, in public, with the numbers on the table — not learning the terms after the fact.
 

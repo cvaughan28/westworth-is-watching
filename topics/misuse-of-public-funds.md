@@ -21,7 +21,7 @@ FACT: To be fair to the whole picture: Bachand's suit names both Fitzgerald *and
 
 UNVERIFIED: How much has been paid or promised, to which law firm, and on what legal advice. Residents have filed public information requests for the legal opinions, invoices, and communications behind the decision. Every document that comes back gets posted here.
 
-FACT: City officials have since told residents the payment rests on a written legal opinion — identified as authored by attorney Mollee Westfall — but have refused to produce it, saying it will be released "at a later time." That is not how the Public Information Act works, and on August 7 the refusal was put in front of the Attorney General (complaint OR-26-043635-IC). The story of the withheld documents: [The Records They Won't Release](/topics/records/).
+FACT: The written opinion the city relied on has now been produced — after a complaint to the Attorney General. [The Westfall opinion](/files/westfall-opinion-2026-07-10.pdf), dated three weeks after the vote, concludes the city may pay counsel to protect *the city's own* interests (chiefly the cost of administering a second election if the contest succeeds) — while conceding the city "is prohibited from defending a candidate's title to office." The minutes, though, record a vote to reimburse *Fitzgerald's* legal fees. The opinion and the minutes describe two different actions, and only one of them is blessed by the opinion. The full analysis: [The Records They Wouldn't Release](/topics/records/).
 
 ## What we think
 
