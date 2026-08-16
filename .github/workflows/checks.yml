@@ -1,0 +1,31 @@
+name: Site checks
+on: [push, pull_request]
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: No em-dashes in published text (outside blockquotes)
+        run: |
+          # Published sources only. README/EDITING are excluded from the build.
+          # Lines beginning with ">" are blockquotes (verbatim document text) and are allowed.
+          if grep -rn $'—' index.html corrections.md topics meetings _layouts documents 2>/dev/null | grep -v ':>' | grep -v ':\s*>'; then
+            echo "::error::Em-dash found in published text. Rewrite with commas, colons, or parentheses."
+            exit 1
+          fi
+          echo "No stray em-dashes."
+
+      - name: Internal file links resolve
+        run: |
+          fail=0
+          # every /files/*.pdf referenced in content must exist in files/
+          for f in $(grep -rhoE '/files/[A-Za-z0-9._-]+\.pdf' index.html corrections.md topics meetings | sort -u); do
+            if [ ! -f ".$f" ]; then echo "::error::Missing file target: $f"; fail=1; fi
+          done
+          # every internal /topics/... and /meetings/... link must have a source page
+          for p in $(grep -rhoE '\((/topics/[a-z0-9-]+/|/meetings/[a-z0-9-]+/)\)' topics meetings corrections.md | tr -d '()' | sort -u); do
+            slug=$(echo "$p" | sed 's#^/##; s#/$##')
+            if [ ! -f "$slug.md" ]; then echo "::error::Broken internal link: $p"; fail=1; fi
+          done
+          exit $fail

@@ -74,6 +74,13 @@ h2{font-family:var(--display);font-size:clamp(1.6rem,4.5vw,2.3rem);text-transfor
 .doc .tag{font-family:var(--mono);font-size:.72rem;background:var(--ink);color:#fff;padding:.15rem .5rem;letter-spacing:.06em;white-space:nowrap}
 .doc a{font-weight:600;font-size:.95rem}
 .doc .note{font-size:.85rem;color:#4a5568;flex-basis:100%;padding-left:0}
+.doc-group{font-family:var(--mono);font-size:.8rem;text-transform:uppercase;letter-spacing:.12em;color:var(--alarm);font-weight:600;margin:1.8rem 0 .2rem}
+.doc-group:first-of-type{margin-top:.4rem}
+
+/* start here */
+.starter{border:3px solid var(--ink);background:#fff;padding:1.6rem;max-width:760px}
+.starter p{font-size:1rem;margin:.6rem 0}
+.starter p:first-child{margin-top:0}
 
 /* sign request */
 .request{background:var(--ink);color:var(--board)}
