@@ -16,6 +16,16 @@ jobs:
           fi
           echo "No stray em-dashes."
 
+      - name: Meeting calendar is not stale
+        run: |
+          latest=$(grep -oE 'date: [0-9]{4}-[0-9]{2}-[0-9]{2}' _data/meetings.yml | sort | tail -1 | cut -d' ' -f2)
+          today=$(date -u +%Y-%m-%d)
+          if [[ -z "$latest" || "$latest" < "$today" ]]; then
+            echo "::error::The newest meeting in _data/meetings.yml ($latest) is in the past. Add upcoming meetings."
+            exit 1
+          fi
+          echo "Calendar current: newest listed meeting is $latest."
+
       - name: Internal file links resolve
         run: |
           fail=0

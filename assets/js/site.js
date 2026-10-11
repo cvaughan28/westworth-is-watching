@@ -48,7 +48,17 @@
     el.insertBefore(tag, first);
   });
 
-  /* 3. Sign-request form: until a real Formspree ID is pasted into index.html,
+  /* 3. Upcoming-meetings list: hide entries whose date has passed.
+     The list itself lives in _data/meetings.yml. */
+  var today = new Date();
+  today.setHours(0, 0, 0, 0);
+  document.querySelectorAll('[data-meeting-date]').forEach(function (el) {
+    var parts = el.getAttribute('data-meeting-date').split('-');
+    var d = new Date(+parts[0], +parts[1] - 1, +parts[2]);
+    if (d < today) el.style.display = 'none';
+  });
+
+  /* 4. Sign-request form: until a real Formspree ID is pasted into index.html,
      don't let the form submit into the void. */
   var form = document.querySelector('form[action*="YOUR_FORM_ID"]');
   if (form) {

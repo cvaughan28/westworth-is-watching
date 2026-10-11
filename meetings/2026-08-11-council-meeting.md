@@ -4,15 +4,16 @@ date: 2026-08-11
 meeting_type: City Council
 summary: The council approved the Shaddock Homes rezoning at 220 Redbird Lane, the reconstituted P&Z commission's first recommendation. The July 14 minutes were approved on consent. Nothing on the agenda addressed the demand letter.
 agenda_url: https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_08112026-200
+minutes_url: https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_09082026-201
 ---
 
 ## The rezoning passed
 
-FACT: The council approved the application from Shaddock Homes to rezone, replat, and develop 220 Redbird Lane (agenda items 7.A, the public hearing, and 7.B, the action), converting the property from single-family SF-A zoning to a gated Planned Development with SF-B underlying zoning. The application materials call the project "The Gates at Westworth Village"; the council's agenda uses only the address, so match documents by "220 Redbird Lane." This followed the [August 4 recommendation to approve](/meetings/2026-08-04-pz-meeting/) from the P&amp;Z commission, reconstituted three weeks earlier. This account comes from residents who attended; the city had not posted the August 11 minutes as of August 15.
+FACT: The council approved the application from Shaddock Homes to rezone, replat, and develop 220 Redbird Lane (agenda items 7.A, the public hearing, and 7.B, the action), converting the property from single-family SF-A zoning to a gated Planned Development with SF-B underlying zoning. The application materials call the project "The Gates at Westworth Village"; the council's agenda uses only the address, so match documents by "220 Redbird Lane." This followed the [August 4 recommendation to approve](/meetings/2026-08-04-pz-meeting/) from the P&amp;Z commission, reconstituted three weeks earlier.
 
-UNVERIFIED: The vote breakdown, and what was said in the public hearing. When the minutes or video post, they go here.
+FACT: Per the official minutes (published in the September 8 packet), the motion was made by Poole, seconded by Fitzgerald, and **passed 5 to 0**: every member, including Turner and Griffith, voted for it.
 
-FACT: For anyone considering a challenge: under Texas Local Government Code § 211.0065, a suit challenging a residential rezoning ordinance like this one must generally be filed within 60 days of the ordinance's effective date. The effective date depends on the adopted ordinance, which the city has not yet posted; we'll add the calendar deadline when it appears.
+FACT: The challenge window has likely closed. Under Texas Local Government Code § 211.0065, a suit challenging a residential rezoning ordinance must generally be filed within 60 days of its effective date. We have not located an adopted ordinance number or stated effective date in the posted record; if the ordinance was effective on adoption, the 60-day window closed **October 10, 2026**.
 
 ## Also that night
 

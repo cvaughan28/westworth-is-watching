@@ -1,8 +1,8 @@
 ---
 title: The Records They Wouldn't Release
-summary: The city sat on two documents until complaints reached the Attorney General. Now we have both, and they're worth the wait. Read them here.
+summary: The city withholds, the Attorney General orders, the documents come out, and every one has contradicted the official story. The running record of the records fights.
 order: 7
-updated: August 2026
+updated: October 2026
 ---
 
 ## How this went
@@ -12,6 +12,18 @@ FACT: Under the Texas Public Information Act, when a resident requests a public 
 ## Document one: the legal opinion
 
 FACT: The city told residents the June 18 vote on Council Member Fitzgerald's legal fees rested on a written legal opinion, to be released "at a later time." Here it is: [the opinion of attorney Mollee Westfall of Cantey Hanger LLP](/files/westfall-opinion-2026-07-10.pdf), addressed to Mayor Jones. The opinion itself concedes the city "is prohibited from defending a candidate's title to office." What it does and doesn't justify, and the mismatch between the opinion and the minutes, is analyzed on [Misuse of Public Funds](/topics/misuse-of-public-funds/), which also covers the document's unusual dates (cover July 10, internal header June 22, engagement letter signed July 7, vote June 18).
+
+## Round two: the AG orders the rest released
+
+FACT: The city kept withholding other legal-fees records, including its litigation engagement letter, and asked the Attorney General for permission. It then failed to follow the required procedure: under Government Code § 552.301, a governmental body seeking to withhold records must submit the documents and its arguments to the AG within set deadlines, and the city never submitted the records for review. On September 30, 2026, the Attorney General ruled in [OR2026-043808](/files/oag-ruling-OR2026-043808-2026-09-30.pdf) that "we have no choice but to order the requested information released." The city's only remaining option to withhold was to sue in court.
+
+FACT: On October 7, the city produced the [Kelly Hart &amp; Hallman engagement letter](/files/kelly-hart-engagement-2026-07-10.pdf). What it says, including who the client is and who pays, is covered in full on [Misuse of Public Funds](/topics/misuse-of-public-funds/).
+
+## Document three: what the city has actually paid
+
+FACT: With the engagement letter public, one question remains: how much public money has gone out the door, and to whom. On October 7, 2026, a records request was submitted to the city for the payment records: checks, electronic transfers, invoices, any reimbursement from Robert Fitzgerald, and any fee-allocation agreement between the City and Fitzgerald, covering June 1, 2026 to the present.
+
+FACT: The clock is running. The city's deadline to produce the records or ask the Attorney General for a ruling is ten business days from receipt: **October 21, 2026**. Whatever comes back gets posted here, as always.
 
 ## Document two: the PILOT
 

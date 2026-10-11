@@ -1,8 +1,8 @@
 ---
 title: Misuse of Public Funds
-summary: The council voted to pay a member's legal fees in his own election contest, something the Texas Attorney General has said, twice, that public money can never do.
+summary: The council voted to pay a member's legal fees in his own election contest, something the Texas Attorney General has said, twice, that public money can never do. Now we have the engagement letter.
 order: 4
-updated: August 2026
+updated: October 2026
 ---
 
 ## The decision
@@ -27,9 +27,31 @@ FACT: The document's own dates are worth noting: its cover is dated July 10, 202
 
 OPINION: Whatever explains the two dates, no version of them puts a signed, written opinion in front of the council before it voted. The justification came after the decision.
 
+## The engagement letter, and who the lawyer actually represents
+
+FACT: The city withheld its litigation engagement letter until the Attorney General [ordered the records released on September 30](/files/oag-ruling-OR2026-043808-2026-09-30.pdf) after the city failed to follow the procedures required to withhold them. The city produced the letter on October 7. [Read it in full](/files/kelly-hart-engagement-2026-07-10.pdf).
+
+FACT: On July 10, 2026, Kelly Hart &amp; Hallman LLP sent an engagement letter to Mayor L. Kelly Jones, captioned "Legal Representation in a matter adverse Michael Bachand." The copy the city produced is signed by Mayor Jones as "mayor" and dated July 10, 2026. That is the same date as the cover of the Westfall opinion.
+
+FACT: Paragraph 1 defines the client: "Our Client in this Matter will be the City of Westworth Village." The same paragraph states that the representation "does not give rise to a lawyer-client relationship between the Firm and anyone else."
+
+FACT: Paragraph 4 is titled "Joint Representation Conflict Waiver." It states that "the Client and Robert Fitzgerald have chosen to be represented by the Firm when they could choose to be represented by separate counsel in this Matter." Paragraph 5 refers to "the jointly represented clients" and to communications "between the Firm and the Client and/or Robert Fitzgerald."
+
+FACT: Under "Client Responsibilities" on page 2: "The Client agrees to pay our statements for services and expenses in this matter." Robert Fitzgerald is not named in any payment provision in the letter.
+
+FACT: Paragraph 4 provides that if a conflict of interest arises, the Firm "may withdraw from the representation of one or more of them," and that the Firm "may continue to represent the other(s), even if we take positions adverse to the other's interests." Paragraph 5 provides that if the Firm no longer represents one of them, it "may nevertheless use any confidential information we have concerning this Matter adversely to them or to the advantage of those we continue to represent."
+
+FACT: Paragraph 12 states billing rates "range from $350.00 an hour for new associates to $1,000.00 an hour for senior partners," that Mr. Whitfield's time is "billed at $675.00 per hour," and that legal assistants are charged from $200.00 to $305.00 per hour. Paragraph 14 states "we have made no commitment to the Client concerning the maximum fees and costs that will be necessary to resolve or complete the Matter."
+
+OPINION: Three observations, and we state the letter's terms and let you draw your own conclusions. First, the City is not a party to Cause No. 348-377803-26, a point documented above from the petition caption, yet the engagement letter makes the City the only party obligated to pay. Second, paragraph 1 and paragraphs 4 and 5 describe different arrangements: one says a single client and no lawyer-client relationship with anyone else, the others describe two jointly represented clients. Both cannot be true. Third, the City agreed in advance that if the two clients' interests diverge, the Firm may drop the City, keep representing Councilman Fitzgerald, and use the City's own confidential information to the advantage of the client it keeps.
+
 ## What we don't know yet
 
-UNVERIFIED: How much has been paid or promised, to which law firm, and for whose defense. Residents have filed public information requests for the invoices and engagement records behind the decision. Every document that comes back gets posted here.
+UNVERIFIED: How much public money has been paid under this engagement. A [records request for the payment records](/topics/records/) was submitted October 7.
+
+UNVERIFIED: Whether any council vote authorized this engagement. The June 18 motion was to reimburse Fitzgerald's legal fees; the minutes record no vote to retain Kelly Hart &amp; Hallman or to sign this letter.
+
+UNVERIFIED: Whether Robert Fitzgerald signed the letter. The produced copy carries one signature: the mayor's.
 
 ## What we think
 
