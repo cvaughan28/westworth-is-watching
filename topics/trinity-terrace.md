@@ -2,7 +2,7 @@
 title: Trinity Terrace
 summary: The Kite Farm rezoning is back. A new application was filed October 1; hearings are November 3 and November 10. Here is the project, the tax question, and the PILOT that still doesn't exist.
 order: 2
-updated: October 2026
+updated: November 2026
 ---
 
 ## The application is active again
@@ -16,6 +16,18 @@ FACT: This is the second attempt. In March 2023 the Planning &amp; Zoning Commis
 FACT: The applicant describes the project on its own website, [archived here on October 11](/files/trinityterrace-kite-farms-page-archived-2026-10-11.pdf): 236 independent living residences, 40 independent living villas, and additional memory support and assisted living residences, with an indoor pool, fitness center, dining venue, a proposed restaurant open to the public, under-building parking, two green spaces of more than an acre each, privately owned campus roads, and a gated community. The applicant states the only planned street connection is to White Settlement Road, and proposes connecting the site's storm drainage to Pecan Street and Sky Acres.
 
 FACT: The applicant is holding a community-wide promotional meeting about the project on **Sunday, October 12 at 6:30 PM**, per the mailer sent to residents, at a city facility. The City Administrator confirmed on October 2 that the city opened its facility for the applicant's use and that invitations were being mailed to every address in town. Worth stating plainly: the city opened a city facility to the applicant for a promotional meeting about an application the city will rule on. Note this is the applicant's own event, not a city public hearing; nothing said there is part of the zoning record.
+
+## Incomplete under the city's own code
+
+FACT: Before the merits ever come up, there is a threshold problem: the application is missing documents the city's own Zoning Ordinance requires. A [written comment delivered to the City Secretary on November 1](/files/written-comment-pz-2026-11-03.pdf), with a request that it go to every P&amp;Z commissioner before the hearing, lays out five defects, each cited to the code and to the page of the city's own [hearing packet](https://www.cityofwestworth.com/AgendaCenter/ViewFile/Agenda/_11032026-206):
+
+FACT: **One: no deviations list.** Section 14.3.52(B) requires every application to list all requested deviations from the zoning chapter's standards, and says applications without the list "will be considered incomplete." The application answers "Any Ordinance Waivers/Variance Requests?" with NO, while the plans show buildings up to 72 feet where the limit is 35, and roughly 60 percent impervious cover where the limit is 55. **Two: no owner signature.** The owner signature line and the owner's notary block are blank; Sections 14.2.28(B) and 14.2.41(A)(1) require a notarized ownership statement. **Three: no survey**, which Sections 14.2.28(A) and 14.2.41(A)(6) require. **Four: the draft ordinance (No. 534) contains none of what a PD ordinance must contain**: no base zoning district, no development standards, and no attached concept plan, contrary to Sections 14.3.52 and 14.3.54. **Five: no city engineering review of this submittal**; the only review in the packet is dated March 10, 2023, addresses the prior application, and was prepared by the same firm that engineered the project.
+
+FACT: The code says what happens to incomplete applications: under Section 14.2.28(C)(2), they "shall not be scheduled on a Planning and Zoning Commission agenda until the proper information is provided." The written comment proposes a concrete path: open the hearing as noticed, take every speaker, then defer the recommendation to December 1 under Section 14.2.30(B) until the applicant completes the file. A fuller analysis, cataloging roughly 25 departures from the ordinance in tiers, is here: [Trinity Terrace Submission vs. Westworth Ordinances](/files/trinity-terrace-vs-westworth-ordinances.pdf).
+
+OPINION: The city would require every one of these items from a homeowner adding a garage. An application missing the owner's signature, the survey, the deviations list, and the engineering review should not be put to a vote at all until it is complete. If the commission recommends it anyway on November 3, that tells you something about whether the rules still run this process.
+
+FACT: One more thing worth watching, from the draft ordinance itself: its findings are worded to invoke the state-law provision that would raise the neighbor-protest threshold from 20 percent of nearby owners to 60 percent. Asked which threshold applies, the City Administrator wrote on October 20 that the city attorney "is working on her opinion" and that the city "will consult with our insurance provider just to make sure we are in good standing before the council takes any action." As of this writing the city has not announced an answer. [The protest page](/protest/) explains both thresholds; file either way.
 
 ## The PILOT, in the applicant's own words
 

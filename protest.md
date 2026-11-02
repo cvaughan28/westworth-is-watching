@@ -21,7 +21,7 @@ FACT: The Planning &amp; Zoning Commission public hearing on the Kite Farm rezon
 
 FACT: Under Texas Local Government Code § 211.0061, if the owners of at least 20 percent of the land within 200 feet of the property proposed for rezoning sign written protests, the rezoning can only pass with a **three-fourths supermajority of the full city council** instead of a simple majority. Rights-of-way count in the 200-foot area. This is not a petition the council may ignore; it is a vote threshold the law imposes.
 
-FACT: One open question, stated plainly: 2023 legislation (HB 24) sets a higher 60 percent protest threshold for certain residential-development changes under § 211.0061(b)(3). Whether a continuing-care retirement community with assisted living and a public restaurant falls inside or outside that provision is a classification question the city has not answered. The question has been put to the city in writing; the answer will be posted here. File your protest either way. The protest is identical; only the threshold it triggers is in question.
+FACT: One open question, stated plainly: 2023 legislation (HB 24) sets a higher 60 percent protest threshold for certain residential-development changes under § 211.0061(b)(3). Whether this project falls inside or outside that provision is a classification question the city has not answered. Asked in writing, the City Administrator responded on October 20 that the city attorney "is working on her opinion" and the city "will consult with our insurance provider just to make sure we are in good standing before the council takes any action." No answer has been announced since. File your protest either way. The protest is identical; only the threshold it triggers is in question.
 
 ## The city's confirmed procedure
 
@@ -44,8 +44,16 @@ FACT: 3. **Deliver the original** to City Secretary Kimberly Biggs at 311 Burton
 
 FACT: 4. **Do it before Tuesday, November 3 at 6:00 PM** so it's in the record for the first public hearing.
 
-## And whether or not you own land near the tract
+## Not in the 200-foot area? You still count
 
-FACT: Public hearings are exactly that: public. Any resident can speak at the November 3 P&amp;Z hearing and the November 10 council hearing, protest rights or not. Submit a Public Comment Form in the lobby before comments begin. The full story of the project, the taxes, and the never-signed PILOT is on the [Trinity Terrace page](/topics/trinity-terrace/).
+FACT: Every Westworth Village citizen can put formal opposition on the record, landowner or not. Three ways, all of which work:
+
+FACT: 1. **Sign the citizen protest statement**: [Formal Zoning Protest, for any Westworth citizen (PDF)](/files/citizen-zoning-protest-form.pdf). One page, states firm opposition to the zoning amendment, signed and delivered to the City Secretary the same way as the landowner protest above.
+
+FACT: 2. **Send a written comment to be read at the P&amp;Z hearing.** Email the City Secretary at kbiggs@cityofwestworth.com by noon on Tuesday, November 3, and ask that it be read into the record. Two or three sentences in your own words is plenty.
+
+FACT: 3. **Show up and speak.** Any resident can address the November 3 P&amp;Z hearing and the November 10 council hearing. Submit a Public Comment Form in the lobby before comments begin; speakers get up to three minutes. A full room matters even if you never take the podium.
+
+FACT: And read what the commission will have in front of it: a [written comment delivered to every commissioner](/files/written-comment-pz-2026-11-03.pdf) lays out, section by section of the city's own code, why this application is incomplete and shouldn't receive a recommendation until it's fixed. The short version is on the [Trinity Terrace page](/topics/trinity-terrace/).
 
 </div>
