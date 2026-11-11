@@ -2,23 +2,13 @@
 # Add new meetings here; past dates are hidden automatically on the page,
 # and the build check fails if the newest date here is in the past.
 # big: true gets the red highlight.
-- date: 2026-10-12
-  time: "6:30 PM"
-  title: "Applicant's community meeting on the Kite Farm project"
-  note: "The developer's own promotional event at a city facility, per the mailer. Not a city hearing; nothing said there is part of the zoning record."
-  big: false
-- date: 2026-10-13
+- date: 2026-12-08
   time: "7:00 PM"
   title: "Regular council meeting"
-  note: "Council Chambers, 311 Burton Hill Road."
+  note: "Council Chambers, 311 Burton Hill Road. The November 10 minutes, and the adopted Kite Farm ordinance, should appear in this packet."
   big: false
-- date: 2026-11-03
-  time: "6:00 PM"
-  title: "P&Z public hearing: the Kite Farm rezoning"
-  note: "The first vote on the new application. File your protest before this hearing."
-  big: true
-- date: 2026-11-10
-  time: "7:00 PM"
-  title: "City council: the Kite Farm rezoning"
-  note: "The final vote. Protests are accepted until the mayor closes this public hearing, per the city's written position."
+- date: 2027-05-01
+  time: "7 AM to 7 PM"
+  title: "Election day: the mayor and Council Member Poole are on the ballot"
+  note: "The one meeting where every resident gets a vote. Mark it now."
   big: true

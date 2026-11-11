@@ -13,6 +13,10 @@ description: Texas law gives neighbors real power over the Kite Farm rezoning. H
 
 <div class="content" markdown="1">
 
+## How it ended, November 10
+
+FACT: This page did its job, and this town did the rest: formal protests from 46 of the 48 homes within 200 feet and from 212 more households across the village, 351 signatures in all. The council approved the rezoning anyway, 3 to 1, after the applicant's day-of demand [forced Councilman Griffith to recuse](/meetings/2026-11-10-council-meeting/). The page below is preserved as a record of the process, and because the protest tools it explains belong to residents in every future rezoning. The next place your signature counts is [the May 2027 ballot](/#letter).
+
 ## The two dates
 
 FACT: The Planning &amp; Zoning Commission public hearing on the Kite Farm rezoning is **Tuesday, November 3, 2026 at 6:00 PM**. The City Council hearing is **Tuesday, November 10, 2026 at 7:00 PM**. Both at the Municipal Complex, 311 Burton Hill Road. Source: written answers from the City Administrator, October 6, 2026. (As of October 11 the city's online calendar does not yet list either meeting; agendas will be linked here once posted.)

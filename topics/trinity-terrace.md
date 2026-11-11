@@ -1,15 +1,19 @@
 ---
 title: Trinity Terrace
-summary: The Kite Farm rezoning is back. A new application was filed October 1; hearings are November 3 and November 10. Here is the project, the tax question, and the PILOT that still doesn't exist.
+summary: The Kite Farm rezoning passed 3 to 1 on November 10, over 351 resident protests and a day-of recusal demand. Here is the project, the tax question, and the PILOT that still doesn't exist.
 order: 2
 updated: November 2026
 ---
 
-## The application is active again
+## The rezoning passed. The watch continues.
 
-FACT: Trinity Terrace filed a new application to rezone the 27.73-acre Kite Farm property on or about October 1, 2026. The City Administrator confirmed it in writing on October 2: "They applied yesterday." A zoning change notice sign went up on the property during the week of September 28.
+FACT: On November 10, 2026, the council approved the Kite Farm rezoning 3 to 1 (Poole, Dingman, Fitzgerald for; Turner against; Griffith recused after a day-of demand from the applicant's counsel), over formal protests from 46 of the 48 homes within 200 feet and 351 signatures village-wide. [What happened that night](/meetings/2026-11-10-council-meeting/), and [a letter to our neighbors](/#letter).
 
-FACT: The hearings are set. **Planning &amp; Zoning: Tuesday, November 3, 2026, 6:00 PM. City Council: Tuesday, November 10, 2026, 7:00 PM.** Both confirmed in writing by the City Administrator on October 6. If you own land within 200 feet of the tract, Texas law gives you real leverage over this decision, and the window to use it is open now: **[how to protest the rezoning](/protest/)**.
+FACT: What this page watches now: the adopted ordinance (does its final form contain the standards and attached plan the code requires?), the site plan and its two-year clock, the engineering review of the drainage plan, and above all the PILOT. Nothing below is moot; it is the checklist for what the city promised while it was selling this.
+
+## How the application came back
+
+FACT: Trinity Terrace filed the new application on or about October 1, 2026. The City Administrator confirmed it in writing on October 2: "They applied yesterday." A zoning change notice sign went up on the property during the week of September 28. The P&amp;Z hearing was November 3; the council hearing and vote, November 10.
 
 FACT: This is the second attempt. In March 2023 the Planning &amp; Zoning Commission voted down Trinity Terrace's prior request to rezone the same property, and that application was withdrawn. The commission that will hear this one was [rebuilt by the council in June and July](/topics/planning-and-zoning/), six of seven seats in a month, and its first recommendation sailed through in August.
 
