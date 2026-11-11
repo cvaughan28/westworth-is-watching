@@ -12,7 +12,6 @@ layout: default
   <p class="lede">We're your neighbors in Westworth Village. We read the agendas, file the records requests, and show up to the meetings, so decisions about our town get made in front of us, not behind closed doors.</p>
   <div class="cta-row">
     <a class="btn btn-solid" href="#letter">A letter to our neighbors</a>
-    <a class="btn btn-ghost" href="#sign">Get a yard sign</a>
     <a class="btn btn-ghost" href="#alerts">Get email updates</a>
   </div>
 </div>
@@ -335,59 +334,12 @@ layout: default
   </div>
 </section>
 
-<!-- ============ GET A SIGN ============ -->
-<section class="request" id="sign">
-  <span class="eyebrow">Put it on the lawn</span>
-  <h2>Request a yard sign</h2>
-  <p class="intro">One sign, one message: <strong>Keep our single-family zoning.</strong> Free, delivered to your door by a neighbor, placed with your permission on your own property. Every sign carries the QR code that brought you here.</p>
-
-  <!--
-    Submissions go to the Formspree form "Yard sign requests" and arrive by email.
-    Export them to a spreadsheet from the Formspree dashboard for delivery routing.
-
-    SIGN PRINTING NOTE (Texas law): every printed sign must carry this exact notice:
-    "NOTICE: IT IS A VIOLATION OF STATE LAW (CHAPTERS 392 AND 393, TRANSPORTATION CODE)
-    TO PLACE THIS SIGN IN THE RIGHT-OF-WAY OF A HIGHWAY."
-    Keep signs 36 sq ft or less, 8 ft or less, no lighting. Yards only, never medians or the ROW.
-  -->
-  <form action="https://formspree.io/f/mykrbnwe" method="POST">
-    <div class="choices" style="grid-template-columns:minmax(200px,320px);justify-content:center">
-      <div class="choice">
-        <span class="mini"><strong>Keep our single-family zoning</strong><em></em></span>
-      </div>
-    </div>
-    <input type="hidden" name="sign_choice" value="Keep Our Single-Family Zoning">
-
-    <div class="grid">
-      <div class="field">
-        <label for="name">Name</label>
-        <input id="name" name="name" type="text" autocomplete="name" required>
-      </div>
-      <div class="field">
-        <label for="email">Email</label>
-        <input id="email" name="email" type="email" autocomplete="email" required>
-      </div>
-    </div>
-    <div class="field">
-      <label for="address">Street address (Westworth Village)</label>
-      <input id="address" name="address" type="text" autocomplete="street-address" required>
-      <span class="hint">So a neighbor can deliver and place your sign, and so we know which streets are standing up.</span>
-    </div>
-    <div class="field">
-      <label for="phone">Phone (optional)</label>
-      <input id="phone" name="phone" type="tel" autocomplete="tel">
-    </div>
-    <button class="btn btn-solid" type="submit">Request my sign</button>
-    <p class="fineprint">We use your information only to deliver signs and share updates about city meetings. We never sell or share it. Signs go on private property only, with the owner's permission: never in medians, parks, or the public right-of-way.</p>
-  </form>
-</section>
-
 <!-- ============ EMAIL ALERTS ============ -->
 <hr class="divider">
 <section class="request" id="alerts">
   <span class="eyebrow">Stay in the loop</span>
   <h2>Get email updates</h2>
-  <p class="intro">Already have a sign, or don't want one? Get an email when something happens: a meeting worth showing up to, a record the city finally releases, a new page on this site. No spam, no chain letters, just the occasional heads-up from your neighbors.</p>
+  <p class="intro">Get an email when something happens: a meeting worth showing up to, a record the city finally releases, a new page on this site. No spam, no chain letters, just the occasional heads-up from your neighbors.</p>
 
   <!-- Submissions go to the Formspree form "Email alerts" and arrive by email.
        Add new signups to the update list before each send. -->

@@ -3,23 +3,8 @@
 
 (function () {
 
-  /* 1. Hero sign cycles the four slogans like lawns down a street (home page only). */
-  var slogan = document.getElementById('slogan');
-  if (slogan && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-    var slogans = [
-      "Who does the mayor work for?",
-      "Keep our single-family zoning",
-      "We already said no.",
-      "Westworth is watching."
-    ];
-    var i = 0;
-    slogan.style.transition = 'opacity .25s ease';
-    setInterval(function () {
-      i = (i + 1) % slogans.length;
-      slogan.style.opacity = 0;
-      setTimeout(function () { slogan.textContent = slogans[i]; slogan.style.opacity = 1; }, 250);
-    }, 4200);
-  }
+  /* 1. The hero sign holds one message: "Who does the mayor work for?"
+     (The old slogan rotation was retired November 2026.) */
 
   /* 2. Fact / speculation labels.
      Anyone editing a page just starts a line with one of these words and a colon:
@@ -58,20 +43,5 @@
     if (d < today) el.style.display = 'none';
   });
 
-  /* 4. Sign-request form: until a real Formspree ID is pasted into index.html,
-     don't let the form submit into the void. */
-  var form = document.querySelector('form[action*="YOUR_FORM_ID"]');
-  if (form) {
-    form.addEventListener('submit', function (e) {
-      e.preventDefault();
-      var msg = form.querySelector('.form-msg');
-      if (!msg) {
-        msg = document.createElement('p');
-        msg.className = 'form-msg';
-        form.appendChild(msg);
-      }
-      msg.textContent = 'Sign requests aren’t open quite yet — we’re finishing the print run. Check back in a few days, or just say hi to a neighbor who already has one in the yard.';
-    });
-  }
 
 })();
